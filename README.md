@@ -1,6 +1,10 @@
 # demo-repo
 hi there'
 
-##subheader
+## subheader
 
 watch it
+
+## local info
+
+1. open index.html 
